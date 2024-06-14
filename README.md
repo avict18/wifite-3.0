@@ -14,7 +14,7 @@ Run the tool using python wifite.py.
 Select the wireless interface to use and the type of scan to perform (e.g., scan for nearby networks, crack a specific network).
 Note:
 
-<em>This tool is for educational purposes only and should not be used to illegally access or compromise Wi-Fi networks. Use of this tool for malicious purposes is strictly prohibited and may result in legal consequences.</em>
+<em><b>This tool is for educational purposes only and should not be used to illegally access or compromise Wi-Fi networks. Use of this tool for malicious purposes is strictly prohibited and may result in legal consequences.</b></em>
 
 # Contributing:
 
