@@ -21,6 +21,6 @@ Note:
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes. All contributions are welcome, including bug fixes, new features, and improvements to the user interface.
 
-License:
+# License:
 
 This project is released under the GNU General Public License v3.0. See the LICENSE file for more information.
