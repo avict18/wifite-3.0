@@ -1,2 +1,2 @@
 pyfiglet
-install colorama
+colorama
