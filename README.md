@@ -7,11 +7,17 @@ Scan for nearby Wi-Fi networks and display their details (SSID, signal strength,
 Crack WEP, WPA, and WPA2 passwords using various methods (e.g., dictionary attack, brute force)
 Supports multiple wireless interfaces and encryption methods
 
-# Usage:
+# Installation for linux.
+```
+git clone https://github.com/avict18/wifite-3.0
 
-Clone this repository and navigate to the project directory.
-Install the required dependencies using pip install -r requirements.txt.
-Run the tool using python wifite.py.
+cd wifite-3.0
+
+pip install -r requirements.txt
+
+python3 wifite.py
+```
+
 Select the wireless interface to use and the type of scan to perform (e.g., scan for nearby networks, crack a specific network).
 Note:
 
