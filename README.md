@@ -31,5 +31,10 @@ If you'd like to contribute to this project, please fork the repository and subm
 
 This project is released under the GNU General Public License v3.0. See the LICENSE file for more information.
 
+# Disclaimer 
+This tool is only fo educational purposes only Avict18 will not be responsible for any Damage.!
+
 # Tags
 <a href='https://github.com/MrpasswordTz'>MrpasswordTz</a>
+
+# Tool is under construction 
