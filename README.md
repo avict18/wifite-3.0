@@ -19,7 +19,7 @@ pip install -r requirements.txt
 python3 wifite.py
 ```
 
-Select the wireless interface to use and the type of scan to perform (e.g., scan for nearby networks, crack a specific network).
+Select the type of scan to perform (e.g., scan for nearby networks, crack a specific network).
 Note:
 
 
