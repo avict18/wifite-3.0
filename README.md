@@ -22,7 +22,6 @@ python3 wifite.py
 Select the wireless interface to use and the type of scan to perform (e.g., scan for nearby networks, crack a specific network).
 Note:
 
-<em><b>This tool is for educational purposes only and should not be used to illegally access or compromise Wi-Fi networks. Use of this tool for malicious purposes is strictly prohibited and may result in legal consequences.</b></em>
 
 # Contributing:
 
@@ -32,8 +31,8 @@ If you'd like to contribute to this project, please fork the repository and subm
 
 This project is released under the GNU General Public License v3.0. See the LICENSE file for more information.
 
-# Disclaimer 
-This tool is only fo educational purposes only Avict18 will not be responsible for any Damage.!
+ # Disclaimer
+ <em><b>This tool is for educational purposes only and should not be used to illegally access or compromise Wi-Fi networks. Use of this tool for malicious purposes is strictly prohibited and may result in legal consequences.</b></em>
 
 # Tags
 <a href='https://github.com/MrpasswordTz'>MrpasswordTz</a>
