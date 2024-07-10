@@ -9,7 +9,7 @@ from colorama import Fore, Style
 
 lines = '-'*30+'>'
 result = "#please wait...\n"
-logo = Fore.AQUA + '''
+logo = '''
 ⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣿⠷⠾⠛⠛⠛⠛⠷⠶⢶⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⣀⣴⡾⠛⠉⠁⠀                         ⠀⠉⠛⠿⣷⣄⡀⠀⠀⠀
 ⠀⠀⣠⣾⠟⠁⠀⠀⠀⠀⠀     ⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠈⠛⢿⣦⡀⠀
@@ -24,15 +24,14 @@ logo = Fore.AQUA + '''
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣷⣄⠀⠀⣀⣾⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-wifite-3.0 
+wifite-3.0......
 by:avict18 
-''' + FORE.RESET
+''' 
 
 def main():
     while True:
-        print(Fore.GREEN+logo)
+        print(Fore.AQUA+logo)
         print(Style.RESET_ALL)
-        print('V1.0'+'                    '+Fore.RED+'by Avict\n'+Fore.RESET)
         print("1. Scan for nearby networks")
         print("2. Crack WEP/WPA/WPA2 networks")
         print("3. Quit")
